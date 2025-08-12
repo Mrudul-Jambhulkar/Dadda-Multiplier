@@ -6,6 +6,7 @@ This repository contains the Verilog implementation of a Dadda tree multiplier, 
 
 - 16-bit Dadda multiplier implementation.
 - Final sum computed with brent kung adder.
+- AXI Interface to read operands and write multiplication results from partitioned BRAM 
 
 
 
